@@ -1,7 +1,7 @@
 # RMSD and Euclidean PATH for GPCR activation
 
 <div align="center">
-<img src="./adrenaline_lipids_notmoving.gif" width="600"> 
+<img src="./adrenaline_lipids_notmoving.gif" width="250"> 
 </div>
 
 This repository contains the input files from the following paper
