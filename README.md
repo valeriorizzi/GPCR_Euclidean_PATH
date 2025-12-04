@@ -1,5 +1,9 @@
 # RMSD and Euclidean PATH for GPCR activation
 
+<div align="center">
+<img src="./adrenaline_lipids_notmoving.gif" width="600"> 
+</div>
+
 This repository contains the input files from the following paper
 
 > [A Transferable and Robust Computational Framework for Class A GPCR Activation Free Energies](https://doi.org/the_doi_of_the_publication)
